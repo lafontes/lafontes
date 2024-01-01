@@ -1,7 +1,3 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/lafontes/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center"> Eu ❤️ resolver desafios usando tecnologia no desenvolvimento FullStack usando JavaScript e Python <strong> apaixonada por descobrir coisas novas e me aprofundar em tecnologia 
 e com isso criar soluções diferentes de qualidade </strong> Sou estudante de Analise e desenvolvimento de sistemas em busca de aperfeiçoamento na area de Tecnologia. <strong></p>&nbsp;
 
@@ -53,7 +49,7 @@ e com isso criar soluções diferentes de qualidade </strong> Sou estudante de A
 <a href="https://www.instagram.com/lafontes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.laysfmoura@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=" nhttps:///www.linkedin.com/in/lais-fontes//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href=" https:///www.linkedin.com/in/lais-fontes//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
