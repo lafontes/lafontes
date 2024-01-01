@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/lafontes/lafontes/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/lafontes/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> Eu ❤️ resolver desafios usando tecnologia no desenvolvimento FullStack usando JavaScript e Python <strong> apaixonada por descobrir coisas novas e me aprofundar em tecnologia 
