@@ -1,7 +1,9 @@
-<p align="center"> Eu ❤️ resolver desafios usando tecnologia no desenvolvimento FullStack usando JavaScript e Python <strong> apaixonada por descobrir coisas novas e me aprofundar em tecnologia 
-e com isso criar soluções diferentes de qualidade </strong> Sou estudante de Analise e desenvolvimento de sistemas em busca de aperfeiçoamento na area de Tecnologia. <strong></p>&nbsp;
+<p align="center"> Estudante de Analise e desenvolvimento de sistemas.
+Apaixonada por tecnologia, amo desenvolver desde pequenas aplicações até desenvolvimento FullStack.
+<strong>principais linguagens usadas por mim: Python e JavaScript.</strong>
 
-<div  align="center" style="margin-bottom:100px">
+ 
+
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lafontes&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-lafontes.vercel.app/api/top-langs/?username=lafontes&show_icons=true&theme=radical&layout=compact" />
  </div>
