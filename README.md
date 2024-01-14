@@ -1,6 +1,6 @@
 <p align="center"> Estudante de Analise e desenvolvimento de sistemas.<br>
 Apaixonada por tecnologia, amo desenvolver desde pequenas aplicações até desenvolvimento FullStack.<br>
-<strong>principais linguagens usadas por mim: Python e JavaScript.</strong><br>
+<strong>Principais linguagens usadas por mim: Python e JavaScript.</strong><br>
 <br><br>
 
  
@@ -52,7 +52,7 @@ Apaixonada por tecnologia, amo desenvolver desde pequenas aplicações até dese
 <a href="https://www.instagram.com/lafontes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:laysfmoura@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=" http://linkedin.com/in/lais-fontes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href=" http://linkedin.com/in/lais-fontes"> target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
