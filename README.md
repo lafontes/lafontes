@@ -6,7 +6,7 @@ Apaixonada por tecnologia, amo desenvolver desde pequenas aplicações até dese
  
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lafontes&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-lafontes.vercel.app/api/top-langs/?username=lafontes&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
