@@ -1,4 +1,3 @@
-<p align="center"> Estudante de Analise e desenvolvimento de sistemas.<br>
 Apaixonada por tecnologia, amo desenvolver desde pequenas aplicações até desenvolvimento FullStack.<br>
 <strong>Principais linguagens usadas por mim: Python e JavaScript.</strong><br>
 <br><br>
