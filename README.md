@@ -1,5 +1,4 @@
-Quem sou <br>
-Sou desenvolvedora de sistemas com formação em Análise e Desenvolvimento de Sistemas, atuando na construção de soluções backend, análise de dados e aplicação de tecnologia no contexto educacional. .<br>
+Desenvolvedora de sistemas com formação em Análise e Desenvolvimento de Sistemas, atuando na construção de soluções backend, análise de dados e aplicação de tecnologia no contexto educacional. .<br><br>
 <strong>Principal linguagem usada: Python.</strong><br>
 <br><br>
 
